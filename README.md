@@ -4,5 +4,5 @@
 
 ## Who Am I
 * Major: Computer Science
-* Pusblisher of a PKNU entrepreneurship club 
+* Pusblisher of Lingory 
 * LikeLion 9th 🦁
