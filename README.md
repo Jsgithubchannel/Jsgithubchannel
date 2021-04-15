@@ -5,7 +5,7 @@
 💻 Major: Computer Science  <br>
 👩‍💻 Pusblisher of Lingory _(http://lingory.net/)_ <br>
 🦁 LikeLion 9th <br>
-🗣 English(Opic: AL), Spanish(Beginner)
+🗣 Korean(Native), English(Opic: AL), Spanish(Beginner)
 
 ## Stack
 - HTML/CSS
