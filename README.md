@@ -3,7 +3,7 @@
 
 ## Who Am I
 💻 Major: Computer Science  <br>
-👩‍💻 Pusblisher of Lingory _(http://lingory.net/)_ <br>
+👩‍💻 Publisher of Lingory _(http://lingory.net/)_ <br>
 🦁 LikeLion 9th <br>
 🗣 Korean(Native), English(Opic: AL), Spanish(Beginner)
 
