@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 ## Who Am I
 💻 Major: Computer Science  <br>
 👩‍💻 Publisher of Lingory _(http://lingory.net/)_ <br>
@@ -15,7 +13,7 @@
 </p>
 
 ## Tech Stack
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -23,6 +21,8 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 
+<br/>
+<br/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsgithubchannel)](https://github.com/Jsgithubchannel/github-readme-stats)
 
