@@ -21,8 +21,3 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 
-<br/>
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsgithubchannel)](https://github.com/Jsgithubchannel/github-readme-stats)
-
