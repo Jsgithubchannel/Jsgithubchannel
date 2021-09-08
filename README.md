@@ -2,7 +2,7 @@
 💻 Major: Computer Science  <br>
 👩‍💻 Publisher of Lingory _(http://lingory.net/)_ <br>
 🦁 LikeLion 9th <br>
-🗣 Korean(Native), English(Opic: AL), Spanish(Beginner)
+🗣 Korean(Native), English(Opic: AL)
 <p>
     <a href="https://breathtaking-life.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
