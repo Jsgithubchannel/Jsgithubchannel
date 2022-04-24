@@ -1,6 +1,7 @@
 ## Who Am I
-💻 Major: Computer Science  <br>
-🦁 LikeLion 9th <br>
+💻 Major: Software and Artificial Intelligence <br>
+🦁 LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2022 <br>
+👩🏻‍💻 Lingory publisher (PKNU Start-Up Club) May. 2020-Mar. 2021 <br>
 🗣 Korean(Native), English(Opic: AL)
 <p>
     <a href="https://breathtaking-life.tistory.com/" target="_blank">
