@@ -1,7 +1,9 @@
 ## Who Am I
-💻 Major: Software and Artificial Intelligence <br>
-🦁 LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2022 <br>
+👩‍🏫  Had mentoring program to grow into developer at HP (In progress) <br>
+🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2022 <br>
+💻 Major: Software and Artificial Intelligence at PKNU <br>
 🗣 Korean(Native), English(Opic: AL)
+
 <p>
     <a href="https://breathtaking-life.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="86px"/>
@@ -13,7 +15,27 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=90px"/>
     </a>
 </p>
-
+                                                                                                                             
+## Projects
+<li>
+    <a href="https://github.com/ATEAM-dAIz/daiz-front" target="_blank">
+        dAIz
+    </a>
+    <p>User Emotion Analysis Diary Using NLP(Natural Language Processing) </p>
+</li>         
+<li>
+    <a href="https://github.com/ArtRound/ArtRound-front" target="_blank">
+        ArtRound
+    </a>
+    <p>Showed nearby exhibitions around the user </p>
+</li>         
+<li>
+    <a href="http://www.ikindling.com/" target="_blank">
+        Kindling Co., Ltd Landing Page
+    </a>
+    <p>Outsourcing of Kindling Co., Ltd landing page </p>
+</li>         
+                                                                                                                    
 ## Tech Stack
 <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
