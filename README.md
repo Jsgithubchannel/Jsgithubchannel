@@ -18,6 +18,12 @@
                                                                                                                              
 ## Projects
 <li>
+    <a href="http://www.ikindling.com/" target="_blank">
+        MyUnit
+    </a>
+    <p>Finding team members for activities and contests </p>
+</li>  
+<li>
     <a href="https://github.com/ATEAM-dAIz/daiz-front" target="_blank">
         dAIz
     </a>
