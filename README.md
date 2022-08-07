@@ -1,6 +1,6 @@
 ## Who Am I
-👩‍🏫  Had mentoring program to grow into developer at HP (In progress) <br>
-🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2022 <br>
+👩‍🏫  Had mentoring program to grow into a developer at HP (In progress) <br>
+🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2021 <br>
 💻 Major: Software and Artificial Intelligence at PKNU <br>
 🗣 Korean(Native), English(Opic: AL)
 
