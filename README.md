@@ -1,18 +1,18 @@
 ## Who Am I
 👩‍🏫  Had mentoring program to grow into a developer at HP Korea and Dell Korea. <br>
-🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community) Feb. 2021-Dec. 2021 <br>
+🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community)<br>
 💻 Major: Software and Artificial Intelligence at PKNU <br>
 🗣 Korean(Native), English(Opic: AL)
 
 <p>
+    <a href="https://www.linkedin.com/in/jisu-hong-7a9683226/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=90px"/>
+    </a>
     <a href="https://breathtaking-life.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="86px"/>
     </a>
     <a href="mailto:mnijisu@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jisu-hong-7a9683226/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=90px"/>
     </a>
 </p>
                                                                                                                              
