@@ -2,7 +2,7 @@
 👩‍🏫  Had mentoring program to grow into a developer at HP Korea and Dell Korea. <br>
 🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community)<br>
 💻 Major: Software and Artificial Intelligence at PKNU <br>
-🗣 Korean(Native), English(Opic: AL)
+🗣 Korean(Native), English(IELTS: 7)
 
 <p>
     <a href="https://www.linkedin.com/in/jisu-hong-7a9683226/" target="_blank">
