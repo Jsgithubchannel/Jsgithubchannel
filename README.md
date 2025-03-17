@@ -1,7 +1,4 @@
 ## Who Am I
-👩‍🏫  Had mentoring program to grow into a developer at HP Korea and Dell Korea. <br>
-🦁  LikeLion 9th (Student-run Tech Entrepreneurship Community)<br>
-💻 Major: Software and Artificial Intelligence at PKNU <br>
 🗣 Korean(Native), English(IELTS: 7)
 
 <p>
