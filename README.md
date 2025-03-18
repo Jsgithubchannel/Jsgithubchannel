@@ -13,31 +13,25 @@
     </a>
 </p>
                                                                                                                              
-## Projects
-<li>
-    <a href="http://www.ikindling.com/" target="_blank">
-        MyUnit
-    </a>
-    <p>Finding team members for activities and contests </p>
-</li>  
+## Projects  
 <li>
     <a href="https://github.com/ATEAM-dAIz/daiz-front" target="_blank">
         dAIz
     </a>
     <p>User Emotion Analysis Diary Using NLP(Natural Language Processing) </p>
-</li>         
+</li>
+<li>
+    <a href="http://www.ikindling.com/" target="_blank">
+        MyUnit
+    </a>
+    <p>Finding team members for activities and contests </p>
+</li>       
 <li>
     <a href="https://github.com/ArtRound/ArtRound-front" target="_blank">
         ArtRound
     </a>
     <p>Showed nearby exhibitions around the user </p>
-</li>         
-<li>
-    <a href="http://www.ikindling.com/" target="_blank">
-        Kindling Co., Ltd Landing Page
-    </a>
-    <p>Outsourcing of Kindling Co., Ltd landing page </p>
-</li>         
+</li>        
                                                                                                                     
 ## Tech Stack
 <p>
