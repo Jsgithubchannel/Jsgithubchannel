@@ -1,5 +1,7 @@
 ## Hello 👋
+
 🗣 Korean(Native), English(C1), German(A2)
+---
 
 <b>🎓 M.S. student at the University of Hamburg (Germany)</b>
 - Robotics & Artificial Intelligence
@@ -14,6 +16,7 @@
 <b>🌐 English interpretation & business support</b>
 - Business meetings, buyer assistance
 
+---
 
 <p>
     <a href="https://www.linkedin.com/in/jisu-hong-7a9683226/" target="_blank">
