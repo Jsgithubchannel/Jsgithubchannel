@@ -1,14 +1,18 @@
 ## Hello 👋
 🗣 Korean(Native), English(C1), German(A2)
 
-- <b>Master’s Program at the University of Hamburg</b>
-    - Selected as one of 20 students from over 500 applicants
-    - Currently studying Robotics and Artificial Intelligence
-- <b>3 years of experience in the IT industry</b>
-    - Project & Product Management
-    - Business Development
-    - Front-End Developer
-- <b>Background in English interpretation and staff at an English language institute</b>
+<b>🎓 M.S. student at the University of Hamburg (Germany)</b>
+- Robotics & Artificial Intelligence
+(Selected: 20 / 500+)
+
+<b>💼 3+ years in the IT industry</b>
+- PM · Business Development · Front-End
+
+<b>🎓 B.S. in Engineering in Software and Artificial Intelligence, Pukyong National University (South Korea)</b>
+- GPA: Major 4.0/4.5, Overall 3.84/4.5
+
+<b>🌐 English interpretation & business support</b>
+- Business meetings, buyer assistance
 
 
 <p>
