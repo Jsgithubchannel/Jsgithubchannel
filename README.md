@@ -10,7 +10,7 @@
 <b>💼 3+ years in the IT industry</b>
 - PM · Business Development · Front-End
 
-<b>🎓 B.S. in Engineering in Software and Artificial Intelligence, Pukyong National University (South Korea)</b>
+<b>🎓 B.S. in Software and Artificial Intelligence, Pukyong National University (South Korea)</b>
 - GPA: Major 4.0/4.5, Overall 3.84/4.5
 
 <b>🌐 English interpretation & business support</b>
